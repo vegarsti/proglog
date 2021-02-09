@@ -1,0 +1,1 @@
+Following along with the book [Distributed Services with Go](https://pragprog.com/titles/tjgo/distributed-services-with-go/) by [Travis Jeffery](https://github.com/travisjeffery). [Original source code](https://github.com/travisjeffery/proglog).
